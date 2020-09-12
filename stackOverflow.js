@@ -1,0 +1,5 @@
+const inception = () => {
+  inception()
+}
+
+inception()
